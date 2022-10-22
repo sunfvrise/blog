@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sunfvrise的个人站</title>
+  <title>SunfvriseBlog</title>
   
-  <subtitle>sunfvrise</subtitle>
+  <subtitle>sunfvrise的个人站</subtitle>
   <link href="https://sunfvrise.github.io/blog/atom.xml" rel="self"/>
   
   <link href="https://sunfvrise.github.io/blog/"/>
