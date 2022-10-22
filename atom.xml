@@ -3,11 +3,11 @@
   <title>SunfvriseBlog</title>
   
   <subtitle>sunfvrise的个人站</subtitle>
-  <link href="https://sunfvrise.github.io/blog/atom.xml" rel="self"/>
+  <link href="https://sunfvrise.github.io/atom.xml" rel="self"/>
   
-  <link href="https://sunfvrise.github.io/blog/"/>
-  <updated>2022-10-22T21:49:14.821Z</updated>
-  <id>https://sunfvrise.github.io/blog/</id>
+  <link href="https://sunfvrise.github.io/"/>
+  <updated>2022-10-22T21:58:44.572Z</updated>
+  <id>https://sunfvrise.github.io/</id>
   
   <author>
     <name>sunfvrise</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>ContentProvider中的连接</title>
-    <link href="https://sunfvrise.github.io/blog/android/contentprovider-zhong-de-lian-jie/"/>
-    <id>https://sunfvrise.github.io/blog/android/contentprovider-zhong-de-lian-jie/</id>
+    <link href="https://sunfvrise.github.io/android/contentprovider-zhong-de-lian-jie/"/>
+    <id>https://sunfvrise.github.io/android/contentprovider-zhong-de-lian-jie/</id>
     <published>2022-10-23T10:00:00.000Z</published>
-    <updated>2022-10-22T21:49:14.821Z</updated>
+    <updated>2022-10-22T21:58:44.572Z</updated>
     
     
       
@@ -36,12 +36,12 @@
     
     
     
-    <category term="Android" scheme="https://sunfvrise.github.io/blog/categories/Android/"/>
+    <category term="Android" scheme="https://sunfvrise.github.io/categories/Android/"/>
     
     
-    <category term="Android" scheme="https://sunfvrise.github.io/blog/tags/Android/"/>
+    <category term="Android" scheme="https://sunfvrise.github.io/tags/Android/"/>
     
-    <category term="ContentProvider" scheme="https://sunfvrise.github.io/blog/tags/ContentProvider/"/>
+    <category term="ContentProvider" scheme="https://sunfvrise.github.io/tags/ContentProvider/"/>
     
   </entry>
   
